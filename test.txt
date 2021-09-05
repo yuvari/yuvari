@@ -1,3 +1,4 @@
 i am line no1 in test file
 i am no2
 i am line no3 in text file
+i am line no 4 in text file
